@@ -4,10 +4,14 @@ El sitio de despliegue se encuentra aquí: https://liga-extraordinaria.herokuapp
 
 # Ejecución
 cd liga-extraordinaria
+
 npm || yarn install
+
 npm || yarn || vite dev
 
 cd server
+
 npm install
+
 node || nodemon server.js
 
