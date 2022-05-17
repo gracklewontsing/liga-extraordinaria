@@ -1,0 +1,23 @@
+{
+  "name": "liga-extraordinaria",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.13.5",
+    "quasar": "^2.6.6",
+    "socket.io-client": "^4.4.1",
+    "vue": "^3.2.25",
+    "vue-3-socket.io": "^1.0.5"
+  },
+  "devDependencies": {
+    "@quasar/vite-plugin": "^1.0.9",
+    "@vitejs/plugin-vue": "^2.3.1",
+    "sass": "1.32.0",
+    "vite": "^2.9.5"
+  }
+}
